@@ -85,3 +85,36 @@ a, i {
     left: 25px;
     bottom: 25px;
 }
+
+/* Galery */
+
+#img2 {
+    background-image: url('../img/img-01.jpg');
+}
+
+#img-3 {
+    background-image: url('../img/img-02.jpg');
+}
+
+#img-4 {
+    background-image: url('../img/img-03.jpg');
+}
+
+#img-5 {
+    background-image: url('../img/img-04.jpg');
+}
+
+#gallery-container h1 {
+    text-align: center;
+}
+
+#gallery-container h1,
+#gallery-container .col-md-12,
+#gallery-container .col-12 {
+    margin-bottom: 50px;
+}
+
+.small-image-container {
+    height: 250px;
+    margin-bottom: 20px;
+}
