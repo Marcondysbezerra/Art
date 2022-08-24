@@ -7,5 +7,6 @@
 
 Github pages: 
 
-## Imagem do projeto
+### Imagem do projeto
 
+![Imagem do site](img/printProject.png)
