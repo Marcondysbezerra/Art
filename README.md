@@ -1,6 +1,9 @@
 # Site de exposição de arte urbana
 
-Site desenvolvido com Bootstrap 5.2, Html e Css.
+### Tecnologias do projeto:
+* Html
+* Css
+* Bootstrap
 
 Github pages: 
 
